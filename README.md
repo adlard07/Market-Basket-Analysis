@@ -22,7 +22,7 @@ Before you begin, make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/market-basket-analysis-pyspark.git
+   git clone https://github.com/adlard07/BDA-Market-Basket-Analysis
    ```
 
 2. Create a directory for your dataset:
